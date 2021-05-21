@@ -43,7 +43,7 @@ The final break down was based on school type. The city has two types of schools
 
 ## Additional Anaysis
 
-Colorado Board of Elections asked us to further analyze the election data to determine:
+After the initial analysis was complete the city schools
 
 1. The voter turnout for each county
 2. The percentage of votes from each county and of the total count.
