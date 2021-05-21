@@ -21,20 +21,20 @@ At a glance, the below chart shows a summary of school testing data by school. D
 
 ## Factor Analysis
 
-1.	Test Scores by School Size
+### Test Scores by School Size
 
 For size comparison schools were broken down into groups of small (less than 1000 students), medium (1000-2000 students), and large (2000-5000 students). Analysis indicates that the small and medium schools performed significantly better than the large schools in standardized testing success.
 
 ![Test_Scores_size](https://user-images.githubusercontent.com/78807451/119065899-988fb380-b9ac-11eb-9880-4bdbe48cfff9.png)
 
-2.	Test Scores Based on Per Student Budget
+### Test Scores Based on Per Student Budget
 
 For spending comparison schools were broken into four groups based on the amount each school spends per student each year. This figure was derived by dividing the total school budget by the number of students. Counter intuitively, the schools spending less money per student tended to perform better. This may be explained further down as we explore school type.
 
 ![Test_Scores_Spending](https://user-images.githubusercontent.com/78807451/119065995-c248da80-b9ac-11eb-85bb-c7552191e3d7.png)
 
 
-3.	Test Scores Based on School Type
+### Test Scores Based on School Type
 
 The final break down was based on school type. The city has two types of schools: District and Charter. The Charter schools performed significantly better on standardized testing that their District counter parts, despite spending less money per student.
 
