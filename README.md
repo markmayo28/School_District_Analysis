@@ -5,33 +5,36 @@
 The city school district initially asked us to review standardized test scores across the city schools to look for trends in test results based on several factors:
 
 1. How does school size effect test scores.
-2. How does the school budgets effect test scores
-3. Calculate the total number of votes each candidate4 received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+2. How does the school budgets effect test scores.
+3. How does school type effect test scores.
 
 ## Resources
 
 - Data Source: election_results.csv (provided by the Colorado Board of Elections)
-- Software: Python 3.9.4, Visual Studio Code 1.55.2
+- Software: Python 3.9.4, Jupyter Notebook 6.3.0
 
 ## Summary
 
-The analysis of the election show that: 
+At a glance, the below chart shows a summary of school testing data by school. Deeper analysis will follow, but this chart provides some good high-level insight into the testing data by school.
 
-- There were 369,711 votes cast in the election
+<Testing_School_Summary> 
 
-- The candidates were:
-  - Charles Casper Stockham
-  - Diana DeGette
-  - Raymon Anthony Doane
+## Factor Analysis
 
-- The results by candidate were:
-  - Charles Casper Stockham received 85,312 votes, which was 23% of the total votes cast.
-  - Diana DeGette received 272,892 votes, which was 73.8% of the total votes cast.
-  - Raymon Anthony Doane received 11,606 votes, which was 3.1% of the total votes cast.
+1.	Test Scores by School Size
 
-- The winner of the election was Diana DeGette, who received 272,892 votes, which was 73.8% of the total votes cast.
+For size comparison schools were broken down into groups of small (less than 1000 students), medium (1000-2000 students), and large (2000-5000 students). Analysis indicates that the small and medium schools performed significantly better than the large schools in standardized testing success.
+
+
+
+2.	Test Scores Based on Per Student Budget
+
+For spending comparison schools were broken into four groups based on the amount each school spends per student each year. This figure was derived by dividing the total school budget by the number of students. Counter intuitively, the schools spending less money per student tended to perform better. This may be explained further down as we explore school type.
+
+3.	Test Scores Based on School Type
+
+The final break down was based on school type. The city has two types of schools: District and Charter. The Charter schools performed significantly better on standardized testing that their District counter parts, despite spending less money per student.
+
 
 ## Additional Anaysis
 
