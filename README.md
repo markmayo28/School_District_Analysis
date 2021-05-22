@@ -76,21 +76,36 @@ While removing the freshman test scores did show a slight increase in passing av
 
 Analysis indicates that standardized testing scores by grade were not affected, since we only removed freshman scores from Thomas High school and this was a statistically insignificant sample.
 
-Math Scores by Grade                                                  Reading Scores by Grade
+Math and Reading Scores by Grade Respectively
 
 <img width="318" alt="Math_Scores_by_Grade" src="https://user-images.githubusercontent.com/78807451/119238236-5337c700-bb0f-11eb-91ea-caeea28c387e.png">  <img width="328" alt="Reading_Scores_by_Grade" src="https://user-images.githubusercontent.com/78807451/119238241-5df25c00-bb0f-11eb-87c0-765e7562c67b.png">
 
-
-
-Reading Scores by Grade
-
-
-
 5. Scores by School Spending
+
+There was no noticable change in the statistics based on school spending. Basing average scores to one-tenth of a point and averages to the whole number, the removal of the Thomas High School freshmen did not affect the scores. This indicates that any change was less than 0.5%.
+
+![New_Test_Scores_Spending](https://user-images.githubusercontent.com/78807451/119238458-626b4480-bb10-11eb-8695-99acca47a6ee.png)
 
 6. Scores by School Size
 
+There was no noticable change in the statistics based on school size. Basing average scores to one-tenth of a point and averages to the whole number, the removal of the Thomas High School freshmen did not affect the scores. This indicates that any change was less than 0.5%.
+
+![New_Test_Scores_Size](https://user-images.githubusercontent.com/78807451/119238549-f63d1080-bb10-11eb-8504-3fdba359bd0e.png)
+
 7. Scores by School Type
 
+There was no noticable change in the statistics based on school type. Basing average scores to one-tenth of a point and averages to the whole number, the removal of the Thomas High School freshmen did not affect the scores. This indicates that any change was less than 0.5%.
 
+![New_Test_Scores_Type](https://user-images.githubusercontent.com/78807451/119238571-2c7a9000-bb11-11eb-8f3f-a5638ee7b4ad.png)
 
+##Summary of Findings After Removing Thomas High School Freshman Test Scores
+
+Final analysis of the standardized testing data for the school district after removing the Thomas High School freshmen data indicates some minor changes to the original results:
+
+-	Test data for the district showed an increase in passing percentage of 0.2% in the math portion of the standardized test.
+-	Test data for the district showed an increase in passing percentage of 0.1% in the math portion of the standardized test.
+-	These increases resulted in an overall passing increase of 0.3% across the district
+-	Removal of the freshman test data resulted in an increase to average math scores of 0.18 points for Thomas High School.
+-	Removal of the freshman test data resulted in an increase to average reading scores of 0.18 points for Thomas High School.
+-	Removal of the freshman test data resulted in an increase to average math scores of 0.18 points for Thomas High School.
+-	Removal of the freshman test data resulted in an increase to passing percentage at Thomas High School. Math passing percentage was up almost 0.1%, reading was up just under 0.3%, and over all passing was up just over 0.3%.
