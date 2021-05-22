@@ -43,29 +43,16 @@ The final break down was based on school type. The city has two types of schools
 
 ## Additional Anaysis
 
-After the initial analysis was complete the city schools
+After the initial analysis was complete the city schools district realized that there was evidence of academic dishonesty. Specifically, the test results for Freshman at Thomas High School appeared to have been altered. While the investigation is still ongoing, the school district would like the scores in question removed from the analysis and understand how the impact this has on the overall results.
 
-1. The voter turnout for each county
-2. The percentage of votes from each county and of the total count.
-3. The county with the highest turnout.
+### Factors Analyzed After Removing Thomas High School Freshmen Results
 
-## Summary of Results
+1.	District Summary
 
-The analysis of the county data shows that:
+The District Summary was basically unaffected by removing the Thomas High School freshman results. This is due to the fact that there were only 461 test scores removed from the overall total, which is only about 1% of the total. Passing percentage went up .2% on Math, .1% on Reading, and .3% Overall.
 
-- There were three counties included in the election results:
-  - Jefferson
-  - Denver
-  - Arapahoe
+District Summary After Removing THS Freshman
+<img width="949" alt="District_Summary" src="https://user-images.githubusercontent.com/78807451/119232296-af402280-baf2-11eb-8929-afc058849460.png">
 
-- The results by county were:
-  - Jefferson county with 38,855 voters which was 10.5% of the overall turnout.
-  - Denver county with 306,055 voters which was 82.8% of the overall turnout.
-  - Arapahoe county with 24,801 voters which was 6.7% of the overall turnout.
-
-- Denver county had far and away the highest voter turnout with over four times the number of voters than the other two counties combined.
-
-## Audit Summary
-
-The programming script used in this analysis is very versatile and can be adjusted to meet future vote counting needs. The programming script can easily be modified to match with a larger number of counties to include a statewide election. Along the same lines it can also be changed to recognize different candidates and a larger candidate pool. This script will also prove useful to compare election turnout and results across multiple election years. We hope you will find this information meets your needs and will think of us for future projects.
-
+Original District Summary
+<img width="927" alt="New_District_Summary" src="https://user-images.githubusercontent.com/78807451/119236489-b6bcf700-bb05-11eb-99b0-3edd84fb0ae7.png">
