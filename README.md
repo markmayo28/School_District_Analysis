@@ -47,7 +47,7 @@ After the initial analysis was complete the city schools district realized that 
 
 ### Factors Analyzed After Removing Thomas High School Freshmen Results
 
-1.	District Summary
+1.  District Summary
 
 The District Summary was basically unaffected by removing the Thomas High School freshman results. This is due to the fact that there were only 461 test scores removed from the overall total, which is only about 1% of the total. Passing percentage went up .2% on Math, .1% on Reading, and .3% Overall.
 
@@ -56,3 +56,41 @@ District Summary After Removing THS Freshman
 
 Original District Summary
 <img width="927" alt="New_District_Summary" src="https://user-images.githubusercontent.com/78807451/119236489-b6bcf700-bb05-11eb-99b0-3edd84fb0ae7.png">
+
+2.  School Summary 
+Analysis of the school summary shows that Thomas High School showed a very slight increase in average math (up .18) and reading (up .07), as well as a very slight increase in passing percentage. Math passing percentage was up almost .1%, reading was up just under .3%, and over all passing was up just over .3%.
+
+School Summary After Removing THS Freshman
+<img width="986" alt="New_School_Summary" src="https://user-images.githubusercontent.com/78807451/119237432-c7bc3700-bb0a-11eb-95e9-b91d6fa8f970.png">
+
+Original School Summary
+<img width="995" alt="School_Summary" src="https://user-images.githubusercontent.com/78807451/119237442-d3a7f900-bb0a-11eb-9bb8-39cfd5f826d8.png">
+
+3. Thomas High School Performance Relative to Other Schools in the District
+
+While removing the freshman test scores did show a slight increase in passing average scores and passing percentage, there was no change in Thomas High School's ranking among district schools. Thomas High School remains in second place behind Cabrera High School.  The chart below shows the top five schools in the district based on standardized testing performance.
+
+<img width="995" alt="Top Schools" src="https://user-images.githubusercontent.com/78807451/119237599-a3148f00-bb0b-11eb-959a-5d2b38337ce3.png">
+
+4. Math and Reading Scores by Grade
+
+Analysis indicates that standardized testing scores by grade were not affected, since we only removed freshman scores from Thomas High school and this was a statistically insignificant sample.
+
+Math Scores by Grade                                                  Reading Scores by Grade
+
+<img width="318" alt="Math_Scores_by_Grade" src="https://user-images.githubusercontent.com/78807451/119238236-5337c700-bb0f-11eb-91ea-caeea28c387e.png">  <img width="328" alt="Reading_Scores_by_Grade" src="https://user-images.githubusercontent.com/78807451/119238241-5df25c00-bb0f-11eb-87c0-765e7562c67b.png">
+
+
+
+Reading Scores by Grade
+
+
+
+5. Scores by School Spending
+
+6. Scores by School Size
+
+7. Scores by School Type
+
+
+
